@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #My apps
     'pyestoque.core',
     'pyestoque.produto',
+    'pyestoque.estoque',
 ]
 
 MIDDLEWARE = [
