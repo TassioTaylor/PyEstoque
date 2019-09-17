@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #My apps
     'pyestoque.core',
+    'pyestoque.produto',
 ]
 
 MIDDLEWARE = [
