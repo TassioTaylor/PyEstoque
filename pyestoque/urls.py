@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('', include('pyestoque.core.urls')),
+    path('produto/', include('pyestoque.produto.urls')),
     path('admin/', admin.site.urls),
 ]
