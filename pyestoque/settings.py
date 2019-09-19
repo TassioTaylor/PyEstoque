@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'pyestoque.core',
     'pyestoque.produto',
     'pyestoque.estoque',
+    #Apps de tercerios
+    'widget_tweaks'
 ]
 
 MIDDLEWARE = [
